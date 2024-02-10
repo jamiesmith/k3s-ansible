@@ -2,3 +2,5 @@
 *.log
 ansible.cfg
 kubeconfig
+secrets_file.enc
+password_file
